@@ -1,19 +1,7 @@
-# app
+# Projeto vue SPA
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**Simples SPA aplicando conhecimentos de rotas,components, props.**
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./public/Capturar.PNG)
+![](./public/Capturar1.PNG)
